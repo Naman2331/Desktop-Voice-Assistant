@@ -100,4 +100,4 @@ if __name__ == '__main__':
 # 3.pip install SpeechRecognition for  SpeechRecognition
 # 4.pip install pipwin and pipwin install pyaudio for support in SpeechRecognition module
 # 5.pip install pyttsx3 for voices
-# 6.pip install Pywin23 for error of sapi5
+# 6.pip install pywin32 for error of sapi5
